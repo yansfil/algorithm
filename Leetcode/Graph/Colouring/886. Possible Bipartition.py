@@ -7,7 +7,7 @@ https://velog.io/@cheol/Meetcode-2020-07-04-Leetcode.-886.-Possible-Bipartition
 
 """
 
-
+import collections
 class Solution:
     def possibleBipartition(self, N: int, dislikes: List[List[int]]) -> bool:
 

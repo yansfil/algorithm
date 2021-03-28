@@ -1,6 +1,9 @@
 """
 https://leetcode.com/problems/all-possible-full-binary-trees/
 기본적인 BackTracking 유형과 Memoization을 정리해야할 것 같다.
+
+시간복잡도:
+공간복잡도:
 """
 
 
